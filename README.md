@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 My name is José and I'm a self-taught iOS Developer from Portugal 🇵🇹
+
 I've worked with PHP, JS, C, C++, C#, Java and Objective-C but currently I´m more focused in Swift with the ocasional Ruby and Python when needed.
 
 #### A few fun facts about myself:
