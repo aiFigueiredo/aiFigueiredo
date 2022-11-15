@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**aiFigueiredo/aiFigueiredo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is José and I'm a self-taught iOS Developer from Portugal 🇵🇹
 
-Here are some ideas to get you started:
+I'm passionate about all kinds of programming languages and enjoy building and shipping fully testable software with the help of good CI/CD pipelines.
+In the past I've worked with PHP, JS, C, C++, C#, Java and Objective-C but currently I´m more focused in Swift with the ocasional Ruby and Python when needed.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### A few fun facts about myself:
+
+- 🏀 My favorite sport is Basketball
+- 🎬 I like watching good Movies and Series
+- 🎮 I enjoy PC and Console Video Games
+- 🤖 I have a lot of fun and useful Home Automations in my House
+- 🎧 Once upon a time I was a DJ, so I really enjoy all kinds of Music
