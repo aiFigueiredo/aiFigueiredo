@@ -1,13 +1,21 @@
-### Hi there 👋
+# Hi there 👋 
 
-My name is José and I'm a self-taught iOS Developer from Portugal 🇵🇹
+I'm José - a Senior iOS Developer from Portugal 🇵🇹
 
-I've worked with PHP, JS, C, C++, C#, Java and Objective-C but in the last 8 years my focus has been Native iOS Development using Objective-c and more recently Swift with the ocasional Ruby and Python when needed.
+## 🛠 Tech Stack
+- **Primary:** Swift, Objective-C, iOS Development
+- **Previously:** PHP, JavaScript, C/C++, C#, Java
+- **Scripting:** Ruby, Python
 
-#### A few fun facts about myself:
+## 💻 Current Focus
+Native iOS Development with a passion for clean architecture and user-centric design
 
-- 🏀 My favorite sport is Basketball
-- 🎬 I like watching good Movies and Series
-- 🎮 I enjoy PC and Console Video Games
-- 🤖 I have a lot of fun and useful Home Automations in my House
-- 🎧 Once upon a time I was a DJ, so I really enjoy all kinds of Music
+## 🎯 Quick Facts
+- 🏀 Basketball enthusiast
+- 🎬 Film & TV buff
+- 🎮 Avid gamer
+- 🤖 Home automation expert
+- 🎧 Former DJ with an eclectic music taste
+
+## 📫 Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/josé-miguel-figueiredo-2b605123/))
