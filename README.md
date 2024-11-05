@@ -16,6 +16,3 @@ Native iOS Development with a passion for clean architecture and user-centric de
 - 🎮 Avid gamer
 - 🤖 Home automation expert
 - 🎧 Former DJ with an eclectic music taste
-
-## 📫 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_URL](https://www.linkedin.com/in/josé-miguel-figueiredo-2b605123/))
